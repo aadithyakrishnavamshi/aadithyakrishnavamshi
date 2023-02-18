@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 --><h1 align="center">Yoi, I'm Aadithya Krishna Vamshi V</h1>
 <h3 align="center">A passionate learner, an enthusiastic music producer and a DJ who loves to code and experiment new things :v</h3>
 
-- 🔭 I’m currently working on [healthify](https://github.com/acmpesuecc/healthify)
-
-- 🌱 I’m currently learning **React-native**
+<!-- - 🔭 I’m currently working on [healthify](https://github.com/acmpesuecc/healthify) -->
+<!-- 
+- 🌱 I’m currently learning **React-native** -->
 
 - 🎹 I upload some of my music projects on [soundcloud](https://soundcloud.com/psykidmakesmusic) or on my [instagram](https://instagram.com/psykidmakesmusic)
 
 - 💬 Ask me about **music production, anime, photography, cooking, literally anything (we can talk about it haha)**
 
-- 📫 Reach out to me on **scholarboiskillkumar@gmail** or [instagram](https://instagram.com/psykidmakesmusic)
+- 📫 Reach out to me on **aadithyakrishnavamshi@gmail** or [instagram](https://instagram.com/psykidmakesmusic)
 
 
 - ⚡ Fun fact -  **Paracetamol chutney 🙀**
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skillkumaroriginal&show_icons=true&locale=en" alt="skillkumaroriginal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skillkumaroriginal&" alt="skillkumaroriginal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadithyakrishnavamshi&" alt="Aadithya" /></p>
