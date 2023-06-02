@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Yoi, I'm Aadithya Krishna Vamshi V</h1>
+--><h1 align="center">Hello, I'm Aadithya Krishna Vamshi V</h1>
 <h3 align="center">A passionate learner, an enthusiastic music producer and a DJ who loves to code and experiment new things :v</h3>
 
 <!-- - 🔭 I’m currently working on [healthify](https://github.com/acmpesuecc/healthify) -->
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 📫 Reach out to me on **aadithyakrishnavamshi@gmail** or [instagram](https://instagram.com/psykidmakesmusic)
 
 
-- ⚡ Fun fact -  **Paracetamol chutney 🙀**
+<!-- - ⚡ Fun fact -  **Paracetamol chutney 🙀** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
