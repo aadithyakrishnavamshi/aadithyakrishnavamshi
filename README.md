@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aadithya-krishna-vamshi-v-274265216/" target="blank"><img align="center" 
-                                                                                           src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" 
-                                                                                           alt="aadithya-krishna-vamshi-v-274265216/" height="40" width="40" /></a>
-<a href="https://instagram.com/psykidmakesmusic" target="blank"><img align="center" src=" https://img.icons8.com/?size=512&id=5eT5OnLluNOx&format=png" alt="psykidmakesmusic" height="40" width="40" /></a>
+src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" alt="aadithya-krishna-vamshi-v-274265216/" height="40" width="40" /></a>
+<a href="https://instagram.com/psykidmakesmusic" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=5eT5OnLluNOx&format=png" alt="psykidmakesmusic" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
